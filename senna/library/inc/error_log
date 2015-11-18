@@ -1,0 +1,16 @@
+[27-Aug-2015 22:28:13] PHP Fatal error:  Call to undefined function  add_action() in /home1/aarafash/public_html/wp-content/themes/senna/library/inc/menus.php on line 19
+[27-Aug-2015 22:28:40] PHP Fatal error:  Call to undefined function  add_action() in /home1/aarafash/public_html/wp-content/themes/senna/library/inc/custom-backgrounds.php on line 17
+[27-Aug-2015 22:28:44] PHP Fatal error:  Call to undefined function  add_action() in /home1/aarafash/public_html/wp-content/themes/senna/library/inc/upgrade-notifier.php on line 21
+[06-Sep-2015 15:20:24] PHP Fatal error:  Call to undefined function  add_action() in /home1/aarafash/public_html/wp-content/themes/senna/library/inc/upgrade-notifier.php on line 21
+[06-Sep-2015 15:20:29] PHP Fatal error:  Call to undefined function  add_action() in /home1/aarafash/public_html/wp-content/themes/senna/library/inc/menus.php on line 19
+[06-Sep-2015 15:20:30] PHP Fatal error:  Call to undefined function  add_action() in /home1/aarafash/public_html/wp-content/themes/senna/library/inc/custom-backgrounds.php on line 17
+[22-Sep-2015 03:30:12] PHP Fatal error:  Call to undefined function  add_action() in /home1/aarafash/public_html/wp-content/themes/senna/library/inc/upgrade-notifier.php on line 21
+[22-Sep-2015 03:30:22] PHP Fatal error:  Call to undefined function  add_action() in /home1/aarafash/public_html/wp-content/themes/senna/library/inc/menus.php on line 19
+[22-Sep-2015 03:30:45] PHP Fatal error:  Call to undefined function  add_action() in /home1/aarafash/public_html/wp-content/themes/senna/library/inc/custom-backgrounds.php on line 17
+[07-Oct-2015 06:55:18] PHP Fatal error:  Call to undefined function  add_action() in /home1/aarafash/public_html/wp-content/themes/senna/library/inc/upgrade-notifier.php on line 21
+[07-Oct-2015 06:55:22] PHP Fatal error:  Call to undefined function  add_action() in /home1/aarafash/public_html/wp-content/themes/senna/library/inc/menus.php on line 19
+[07-Oct-2015 06:55:24] PHP Fatal error:  Call to undefined function  add_action() in /home1/aarafash/public_html/wp-content/themes/senna/library/inc/custom-backgrounds.php on line 17
+[28-Oct-2015 06:26:46] PHP Fatal error:  Call to undefined function  add_action() in /home1/aarafash/public_html/wp-content/themes/senna/library/inc/admin-help-pointers.php on line 150
+[11-Nov-2015 22:19:33] PHP Fatal error:  Call to undefined function  add_action() in /home1/aarafash/public_html/wp-content/themes/senna/library/inc/admin-help-pointers.php on line 150
+[11-Nov-2015 22:19:35] PHP Fatal error:  Call to undefined function  add_action() in /home1/aarafash/public_html/wp-content/themes/senna/library/inc/menus.php on line 19
+[11-Nov-2015 22:20:16] PHP Fatal error:  Call to undefined function  add_action() in /home1/aarafash/public_html/wp-content/themes/senna/library/inc/upgrade-notifier.php on line 21

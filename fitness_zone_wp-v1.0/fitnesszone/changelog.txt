@@ -1,0 +1,23 @@
+***Fitness Zone WordPress Theme Changelog ***
+
+2015.04.24 - version 1.3
+ * Fixed XSS vulnerability
+ * Updated to TGM Plugin 2.4.1
+ * WordPress 4.2 Compatible
+ * Updated latest version of all third party plugins
+ * BPanel options issues fixed
+
+2015.04.02 - version 1.2
+ * Flat icons removed from theme files
+ * Apple favicon image save issue fixed
+ * Woocommerce category listing issue fixed
+ * Some design tweaks updated
+ * Dummy content xml file updated
+
+2015.03.19 - version 1.1
+ * Added cart link in header
+ * All plugins compatible checked
+ * Some design tweaks fixed
+
+2015.02.27 - version 1.0
+ * First release!

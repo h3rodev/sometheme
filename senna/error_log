@@ -1,0 +1,11 @@
+[25-Aug-2013 03:23:09 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/aarafash/public_html/wp-content/themes/senna/index.php on line 1
+[25-Aug-2013 03:23:10 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/aarafash/public_html/wp-content/themes/senna/index.php on line 1
+[25-Aug-2013 03:23:10 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/aarafash/public_html/wp-content/themes/senna/index.php on line 1
+[25-Aug-2013 03:23:10 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/aarafash/public_html/wp-content/themes/senna/index.php on line 1
+[25-Aug-2013 03:23:11 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/aarafash/public_html/wp-content/themes/senna/index.php on line 1
+[25-Aug-2013 03:23:11 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/aarafash/public_html/wp-content/themes/senna/index.php on line 1
+[22-Sep-2015 03:30:18] PHP Fatal error:  Call to a member function get() on a non-object in /home1/aarafash/public_html/wp-content/themes/senna/footer.php on line 5
+[07-Oct-2015 06:55:40] PHP Fatal error:  Call to a member function get() on a non-object in /home1/aarafash/public_html/wp-content/themes/senna/footer.php on line 5
+[28-Oct-2015 06:26:42] PHP Fatal error:  Call to undefined function  language_attributes() in /home1/aarafash/public_html/wp-content/themes/senna/header.php on line 5
+[11-Nov-2015 22:19:30] PHP Fatal error:  Call to a member function get() on a non-object in /home1/aarafash/public_html/wp-content/themes/senna/footer.php on line 3
+[11-Nov-2015 22:20:02] PHP Fatal error:  Call to undefined function  language_attributes() in /home1/aarafash/public_html/wp-content/themes/senna/header.php on line 5
